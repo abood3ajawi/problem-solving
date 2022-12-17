@@ -1,6 +1,6 @@
 <h1>solution : </h1>
 <h5>create hashmap and count how many time each char repeated as following for each string in parameter :</h5>
-for example t= aaoud s=aauod 
+<h6>t= aaoud </h6> 
 <br/>
  <table>
   <tr>
@@ -25,7 +25,7 @@ for example t= aaoud s=aauod
   </tr>
 
 </table> 
-
+<h6>s=aauod <h6>
  <table>
   <tr>
     <th>char(index)</th>

@@ -1,5 +1,5 @@
 <h1>solution : </h1>
-create hashmap as following for each string in parameter :
+<h2>create hashmap as following for each string in parameter :</h2>
 for example t= aaoud s=aauod 
  <table>
   <th>

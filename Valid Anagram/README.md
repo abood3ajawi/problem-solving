@@ -48,3 +48,4 @@
     <td>1</td>
   </tr>
 </table> 
+ <h6>then return if they equal or not (-_-) . </h6> 

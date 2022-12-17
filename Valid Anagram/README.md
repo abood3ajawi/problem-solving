@@ -26,10 +26,10 @@ for example t= aaoud s=aauod
 </table> 
 
  <table>
-  <th>
+  <tr>
     <th>char(index)</th>
     <th>int(value)</th>
-  </th>
+  </tr>
   <tr>
     <td>a</td>
     <td>2</td>
